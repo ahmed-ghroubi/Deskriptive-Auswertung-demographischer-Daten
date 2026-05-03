@@ -21,7 +21,7 @@ This case study focuses on the following questions:
 |---|---|
 | `code/` | R script used for the analysis |
 | `data/` | Census dataset used in the project |
-| `report/` | Final PDF report and R Markdown file |
+| `report/` | Final PDF report |
 | `figures/` | Graphs created during the analysis |
 
 ### Graphs
